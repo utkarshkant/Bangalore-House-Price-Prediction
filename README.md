@@ -5,7 +5,7 @@
 
 Link to dataset : https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data/data#
 
-#### We will use Regression to make predictions. Regression models are
+#### We will use Regression to make predictions. Regression models used are:
 1. Linear Regression<br>
 2. Lasso Regression<br>
 3. Decision Tree Regression
